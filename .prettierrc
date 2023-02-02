@@ -1,4 +1,6 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all"
+  "semi":true, //ponto e vírgula no final
+  "singleQuote": true, //aspas simples
+  "arrowParens": "avoid", //não obriga colocar o () quando só tem um parâmetro no arrow function
+  "trailingComma": "all" // coloca a vírgula em todos, se colocar none ele tira do último
 }
